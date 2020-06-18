@@ -15,7 +15,7 @@
 
 # makedown
 ## 插入图片
-![avatar](/url)
+`![图书说明](/url)`
 
 ## 插入标题
 安装插件[makedown TOC]  使用方法，右键快捷菜单栏
