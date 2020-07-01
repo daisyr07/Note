@@ -82,3 +82,4 @@
 ### 安装包的安装
  使用镜像源:    
  `pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple 包名`   
+ `pip install --user opencv-contrib-python -i https://pypi.tuna.tsinghua.edu.cn/simple/`           
